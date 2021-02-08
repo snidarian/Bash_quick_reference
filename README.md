@@ -24,7 +24,7 @@ Operator | Condition checked | return result
 -s file |	Checks if file has size greater than 0; if yes, then condition becomes true. |	[ -s $file ] is true.
 -e file |	Checks if file exists; is true even if file is a directory but exists. |	[ -e $file ] is true.
 
-
+---
 
 ### Special Variables
 
