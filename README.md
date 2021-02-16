@@ -8,13 +8,11 @@ Syntax refreshers
 Operator | Equivalent
 ---------|------------
 $a -lt $b | $a < $b
-
-
-
-
-
-
-
+$a -gt $b | $a > $b
+$a -le $b |	$a <= $b
+$a -ge $b |	$a >= $b
+$a -eq $b |	$a is equal to $b
+$a -ne $b |	$a is not equal to $b
 
 
 
