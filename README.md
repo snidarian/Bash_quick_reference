@@ -1,6 +1,22 @@
 ## Bash Quick Reference 
 Syntax refreshers
 
+---
+
+### Control Flow Operators
+
+Operator | Equivalent
+---------|------------
+$a -lt $b | $a < $b
+
+
+
+
+
+
+
+
+
 
 
 ---
