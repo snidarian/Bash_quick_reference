@@ -37,7 +37,7 @@ Operator | Condition checked | return result
 -x file |	Checks if file is executable; if yes, then the condition becomes true. |	[ -x $file ] is true.
 -s file |	Checks if file has size greater than 0; if yes, then condition becomes true. |	[ -s $file ] is true.
 -e file |	Checks if file exists; is true even if file is a directory but exists. |	[ -e $file ] is true.
-
+-z file | Checks if a string is empty "" and evaluates to true if it is | str=""; [ -z $str ] is true
 ---
 
 ### Special Variables
