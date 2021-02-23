@@ -157,7 +157,7 @@ ANSI Escape Color Codes
 ---
 
 ## Bash Prompt Escape sequences
-              ```
+              
               \a     an ASCII bell character (07)
               \d     the date  in  "Weekday  Month  Date"  format
                      (e.g., "Tue May 26")
@@ -193,7 +193,7 @@ ANSI Escape Color Codes
                      which could be used to embed a terminal con­
                      trol sequence into the prompt
               \]     end a sequence of non-printing characters
-              ```
+              
 
 
 
