@@ -9,11 +9,11 @@
               \d     the date  in  "Weekday  Month  Date"  format
                      (e.g., "Tue May 26")
               \e     an ASCII escape character (033)
-              \h     the hostname up to the first `.'
+              \h     the hostname up to the first `.\'
               \H     the hostname
               \j     the  number of jobs currently managed by the
                      shell
-              \l     the basename of the shell's terminal  device
+              \l     the basename of the shell\'s terminal  device
                      name
               \n     newline
               \r     carriage return
